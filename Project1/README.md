@@ -12,7 +12,13 @@ Smoking during pregnancy (SDP) and environmental tobacco smoke (ETS) exposure ar
 
 #### Guidelines
 
+* *Project1_Updated.pdf*: the updated report of this project assignment after first submission and receiving feedback.
 
+* *Project1_Updated.Rmd*: the updated code file (.rmd) for this report, including all codes for creating tables and figures in the report.
+
+* *PHP2550_Project1_Yiwen_Liang.pdf*: the initial report of this project assignment.
+
+* *PHP2550_Project1_Yiwen_Liang.Rmd*: the initial code file (.rmd) for this report, including all codes for creating tables and figures in the report.
 
 #### Data Availability
 
