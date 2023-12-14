@@ -1,6 +1,6 @@
-### Examining the Effects of Smoking During Pregnancy (SDP) and Environmental Tobacco Smoke (ETS) on Adolescent Self-Regulation, Externalizing Behavior, and Substance Use
-
 ### Project 1: Exploratory Data Analysis
+
+### Examining the Effects of Smoking During Pregnancy (SDP) and Environmental Tobacco Smoke (ETS) on Adolescent Self-Regulation, Externalizing Behavior, and Substance Use
 
 This is the 1st project assignment of PHP2550 Practical Data Analysis course at Brown University (Fall 23).
 
