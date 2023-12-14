@@ -28,17 +28,17 @@ All analyses are performed in R v4.2.2, and the packages utilized in this projec
 
 | Packages  | Version |
 | ------------- | ------------- |
-| corrplot  | 0.92  |
-| cowplot  | 1.1.1   |
-| ggplot2  | 3.4.3  |
-| ggpubr  | 0.5.0  |
-| gt  | 0.9.0  |
-| gtsummary  | 1.7.2  |
-| janitor  | 2.2.0  |
-| kableExtra  | 1.3.4  |
-| knitr  | 1.39  |
-| mice  | 3.16.0  |
-| tidyverse  | 1.3.2  |
+| `corrplot`  | 0.92  |
+| `cowplot`  | 1.1.1   |
+| `ggplot2`  | 3.4.3  |
+| `ggpubr`  | 0.5.0  |
+| `gt`  | 0.9.0  |
+| `gtsummary`  | 1.7.2  |
+| `janitor` | 2.2.0  |
+| `kableExtra`  | 1.3.4  |
+| `knitr`  | 1.39  |
+| `mice`  | 3.16.0  |
+| `tidyverse` | 1.3.2  |
 
 #### Authors
 
