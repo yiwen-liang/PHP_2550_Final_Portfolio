@@ -47,8 +47,11 @@ All analyses are performed in R v4.2.2, and the packages utilized in this projec
 | `cowplot`  | 1.1.1   |
 | `ggplot2`  | 3.4.3  |
 | `ggpubr`  | 0.5.0  |
+| `gt`  | 0.9.0  |
+| `gtsummary`  |  1.7.2 |
 | `kableExtra`  | 1.3.4  |
 | `knitr`  | 1.39  |
+| `MASS`  | 7.3-58.1  |
 | `mice`  | 3.16.0  |
 | `nhanesA`  | 0.7.4  |
 | `reshape2`  | 1.4.4  |
