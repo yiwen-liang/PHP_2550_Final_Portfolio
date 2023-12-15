@@ -14,7 +14,7 @@ There are three folders in this repository: ach includes the original and update
 
 * *Project3*: Simulation Studies: Evaluating the Performance of a Prediction Model in Different Population
 
-Each folder has a separate `README` file that introduces the project in details, and each `README` file includes an **abstract** of the report, the **guidelines** of the documents available in this folder, **data availability**, **acknowledgement** and **environment version information** that has all the packages utilized in this project and their versions prensented. The original and updated reports and code files for the project are located in the corresponding folder, and the supplementary material will also be presented according to the project.
+Each folder has a separate `README` file that introduces the project in details, and each `README` file includes an **abstract** of the report, the **guidelines** of the documents available in this folder, **data availability**, **acknowledgement** and **environment version information** that has all the packages utilized in this project and their versions presented. The original and updated reports and code files for the project are located in the corresponding folder, and the supplementary material will also be presented according to the project.
 
 ### Authors
 
