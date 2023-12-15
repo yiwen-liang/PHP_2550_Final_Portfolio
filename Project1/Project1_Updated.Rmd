@@ -457,7 +457,7 @@ ggscatter(df, x = "SDP_intensity", y = "ETS_intensity", point = FALSE,
           conf.int = TRUE, cor.coef = TRUE,
           cor.coeff.args = list(method = "pearson", label.x = 0.2, label.y = 5),
           xlab = "SDP Intensity", ylab = "ETS Intensity") + 
-  geom_jitter(aes(colour = SDP))
+  geom_jitter()
 
 ```
 
