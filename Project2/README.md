@@ -34,14 +34,25 @@ All analyses are performed in R v4.2.2, and the packages utilized in this projec
 
 | Packages  | Version |
 | ------------- | ------------- |
-| `cowplot`  | 1.1.1   |
-| `ggplot2`  | 3.4.3  |
-| `ggpubr`  | 0.5.0  |
-| `kableExtra`  | 1.3.4  |
 | `knitr`  | 1.39  |
+| `tidyverse`  | 1.3.2  |
+| `kableExtra`  | 1.3.4  |
+| `gt`  | 0.9.0  |
+| `gtsummary`  | 1.7.2  |
+| `corrplot`  | 0.92  |
+| `cowplot`  | 1.1.1  |
+| `ggplot2` | 3.4.3  |
+| `ggpubr`  | 0.5.0   |
+| `janitor`  | 2.2.0  |
 | `mice`  | 3.16.0  |
-| `reshape2`  | 1.4.4  |
-| `tidyverse` | 1.3.2  |
+| `nnet`  | 7.3-18  |
+| `bestglm`  | 1.39  |
+| `glmnet`  | 0.37.3  |
+| `EnvStats`  | 2.8.1  |
+| `L0Learn` | 2.1.0  |
+| `MASS`  | 7.3-58.1   |
+| `lme4`  | 1.1-30  |
+| `pROC`  | 1.18.4  |
 
 #### Authors
 
