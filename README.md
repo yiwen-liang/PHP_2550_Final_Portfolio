@@ -6,7 +6,7 @@ This is the complete repository, including all three project assignments, for PH
 
 ### Guidelines
 
-There are three folders in this repository: ach includes the original and updated reports and code files for the project.
+* *PHP2550_Final_Reflection.pdf*: the reflection report that discusses the changes made to each project, the reasons behind these changes, and the lessons learned through the improvement process.
 
 * *Project1*: Exploratory Data Analysis: Examining the Effects of Smoking During Pregnancy (SDP) and Environmental Tobacco Smoke (ETS) on Adolescent Self-Regulation, Externalizing Behavior, and Substance Use
   
