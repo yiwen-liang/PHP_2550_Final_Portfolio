@@ -8,7 +8,7 @@ This is the complete repository, including all three project assignments, for PH
 
 * *PHP2550_Final_Reflection.pdf*: the reflection report that discusses the changes made to each project, the reasons behind these changes, and the lessons learned through the improvement process.
 
-* *PHP2550_Poster_Yiwen_Liang.pdf*: the poster presented at the Dec 14th poster session, focusing on Project1.
+* *PHP2550_Poster.pdf*: the poster presented at the Dec 14th poster session, focusing on Project1.
 
 * *Project1*: Exploratory Data Analysis: Examining the Effects of Smoking During Pregnancy (SDP) and Environmental Tobacco Smoke (ETS) on Adolescent Self-Regulation, Externalizing Behavior, and Substance Use
   
