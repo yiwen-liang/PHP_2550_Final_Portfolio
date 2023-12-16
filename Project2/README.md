@@ -8,7 +8,7 @@ ${\color{gray}Posted: 12/15/2023}$
 
 #### Abstract
 
-
+Bronchopulmonary dysplasia (BPD) is a chronic pulmonary condition characterized by inflammatory processes and lung scarring. Given the merits and drawbacks of tracheostomy placement, it becomes crucial to determine the criteria for tracheotomy and the optimal timing for referring a patient for this procedure. This project construct two prediction models for composite outcome of tracheotomy and death for infants with severe bronchopulmonary dysplasia at 36 weeks and 44 weeks. For both week-36 and week-44 models, we first use *lasso* and *best subset* for variable selection of fixed effects, then fit a mixed effects model using the fixed effects obtained through variable selection, incorporating random intercept for each center. The performances of these models will be evaluated using metrics including the Brier score, AUC, sensitivity, and specificity. The week-36 models have Brier scores around 0.07, and the week-44 models have Brier scores of approximately 0.06. All four models have AUC greater than 0.9 and threshold lower than 0.15. However, the calibration of all models are not ideal. The models constructed with all available variables up to 44 weeks were deemed more effective. These models provide clinicians with valuable tools for early prognosis, facilitating informed discussions with the families of infants at risk.
 
 #### Guidelines
 
